@@ -1,1 +1,3 @@
-#Working with git and Python
+# Working with git and Python
+
+print ("I am cool")
